@@ -1,1 +1,8 @@
-
+{
+  "chatbotOn": true,
+  "antilink": true,
+  "welcome": true,
+  "goodbye": true,
+  "antitag": false,
+  "autostatus": true
+}
